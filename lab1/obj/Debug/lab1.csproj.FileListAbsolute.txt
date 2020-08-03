@@ -1,0 +1,6 @@
+/Users/minhtri/RiderProjects/polymorlythismlab/lab1/bin/Debug/lab1.exe
+/Users/minhtri/RiderProjects/polymorlythismlab/lab1/bin/Debug/lab1.pdb
+/Users/minhtri/RiderProjects/polymorlythismlab/lab1/obj/Debug/lab1.csprojAssemblyReference.cache
+/Users/minhtri/RiderProjects/polymorlythismlab/lab1/obj/Debug/lab1.csproj.CoreCompileInputs.cache
+/Users/minhtri/RiderProjects/polymorlythismlab/lab1/obj/Debug/lab1.exe
+/Users/minhtri/RiderProjects/polymorlythismlab/lab1/obj/Debug/lab1.pdb
